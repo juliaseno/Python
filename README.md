@@ -1,2 +1,2 @@
 # Python
-Projeto em andamento de Python usando as bases de dado da PNAD e da PNS de 2013.
+Projeto da matéria de Python realizado em dupla (com o Mohammed Kaebi). Usando as bases de dado da PNAD e da PNS de 2013 esse trabalho visava criar um modelo preditivo para a gravidez na adolescencia. Sendo assim além do tratamento dos dados foram testados diversos modelos de Machine Learning para atingir esse objetivo. Ao final do projeto constatamos que para a amostra utilizada o melhor modelo para predição foi Probit.
